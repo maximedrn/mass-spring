@@ -21,7 +21,7 @@ cmake --build .build --parallel
 cmake --build .build --target run
 ```
 
-![Euler demo](assets/euler.mp4)
+![Euler demo](assets/euler.gif)
 
 ### Runge-Kutta 4
 
@@ -31,7 +31,7 @@ cmake --build .build --parallel
 cmake --build .build --target run
 ```
 
-![RK4 demo](assets/rk4.mp4)
+![RK4 demo](assets/rk4.gif)
 
 ### Format
 
