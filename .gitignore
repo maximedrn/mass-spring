@@ -1,0 +1,13 @@
+# School project files.
+*.tex
+*.pdf
+
+# Compiled source.
+.build/
+
+# Qt Creator files.
+*.user
+.qglviewer.xml
+
+# Operating system files.
+.DS_Store
